@@ -1,5 +1,7 @@
 # Awesome Human Body
-Purpose: for collecting information in one place while transform body
+*Purpose*: Collect all information in one place while transform body
+
+*Duration*: 1:30 hrs
 
 ## Before workout
 ### Streching
@@ -22,5 +24,5 @@ Purpose: for collecting information in one place while transform body
 - 
 
 ### Sauna & Steam 
-- [Benefits of a steam room](https://www.medicalnewstoday.com/articles/320314.php)
+- [Benefits of a Steam Room](https://www.medicalnewstoday.com/articles/320314.php)
   - 15 - 20 Mins / Day
