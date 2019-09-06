@@ -12,12 +12,19 @@
 ## Workout
 ### 3 Main Muscle 
 * Upper Body
+  * Chest 
+  * Back
+  * Bicep 
+  * Tricep
+  * Lower Back
 * Core Muscle Body
 * Lower Body
 
 ### Cardio
 - Treadmills: Place you forefoot down not rear foot 
   - Please keep your HR in zone 2
+  - Looping Walk 5 minutes - Run 5 minutes - Walk 5 minutes (HiiT Cardio)  
+  - Not Less than 30 minutes
 
 ## After workout
 ### Streching
@@ -26,3 +33,7 @@
 ### Sauna & Steam 
 - [Benefits of a Steam Room](https://www.medicalnewstoday.com/articles/320314.php)
   - 15 - 20 Mins / Day
+
+## Techniques
+- When lift weight for Bicep and Tricep, the eldbow point in front of yourself 
+- When lift weight for lef, your foot tip should point to your face 
