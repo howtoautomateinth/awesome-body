@@ -36,4 +36,4 @@
 
 ## Techniques
 - When lift weight for Bicep and Tricep, the eldbow point in front of yourself 
-- When lift weight for lef, your foot tip should point to your face 
+- When lift weight for Leg, your foot tip should point to your face 
