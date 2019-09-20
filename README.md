@@ -25,6 +25,12 @@
   - Please keep your HR in zone 2
   - Looping Walk 5 minutes - Run 5 minutes - Walk 5 minutes (HiiT Cardio)  
   - Not Less than 30 minutes
+  
+### Weight Training
+- Abdominal muscle : Everyday before finish workout (15 times, 3 set)
+  - Lower Abs with machine 
+  - Abs with hover situp 
+  - Bodyweight ball with situp
 
 ## After workout
 ### Streching
