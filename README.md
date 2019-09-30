@@ -3,14 +3,7 @@
 
 *Duration*: 1:30 hrs
 
-## Before workout
-### Streching
-- 
-### Cardio
-- Treadmills for 10-15 mins to release lactic acid
-
-## Workout
-### 3 Main Muscle 
+### Muscle Knowledge
 * Upper Body
   * Chest 
   * Back
@@ -20,17 +13,26 @@
 * Core Muscle Body
 * Lower Body
 
-### Cardio
-- Treadmills: Place you forefoot down not rear foot 
-  - Please keep your HR in zone 2
-  - Looping Walk 5 minutes - Run 5 minutes - Walk 5 minutes (HiiT Cardio)  
-  - Not Less than 30 minutes
+## Before workout
+### Streching
+- 
   
-### Weight Training
-- Abdominal muscle : Everyday before finish workout (15 times, 3 set)
+### Weight Training Recipes
+- Chest Day (4 set 12 times)
+  - Brench Press
+  - Bench Dumbbell Fly 
+  - Tricep Dumbbell Kickback 
+  - Technogym Tricep Machine 
+- Abdominal Routine before finish workout (15 times, 3 set)
   - Lower Abs with machine 
   - Abs with hover situp 
   - Bodyweight ball with situp
+  
+### Cardio Training Recipes
+- Treadmills: Place you forefoot down not rear foot 
+  - Please keep your HR in zone 2
+  - Looping Walk 5 minutes - Run 5 minutes - Walk 2 minutes (HiiT Cardio)  
+  - Not Less than 30 minutes
 
 ## After workout
 ### Streching
@@ -43,3 +45,4 @@
 ## Techniques
 - When lift weight for Bicep and Tricep, the eldbow point in front of yourself 
 - When lift weight for Leg, your foot tip should point to your face 
+
