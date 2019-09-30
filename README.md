@@ -15,9 +15,10 @@
 
 ## Before workout
 ### Streching
-- 
+- Technogym Streching Machine 
   
-### Weight Training Recipes
+## Workout Recipes
+### Weight Training 
 - Chest Day (4 set 12 times)
   - Brench Press
   - Bench Dumbbell Fly 
@@ -28,7 +29,7 @@
   - Abs with hover situp 
   - Bodyweight ball with situp
   
-### Cardio Training Recipes
+### Cardio Training 
 - Treadmills: Place you forefoot down not rear foot 
   - Please keep your HR in zone 2
   - Looping Walk 5 minutes - Run 5 minutes - Walk 2 minutes (HiiT Cardio)  
