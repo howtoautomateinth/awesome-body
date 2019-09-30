@@ -28,6 +28,7 @@
   - Lower Abs with machine 
   - Abs with hover situp 
   - Bodyweight ball with situp
+  - Crunch
   - Plank (30 sec)
   
 ### Cardio Training 
