@@ -28,6 +28,7 @@
   - Lower Abs with machine 
   - Abs with hover situp 
   - Bodyweight ball with situp
+  - Plank (30 sec)
   
 ### Cardio Training 
 - Treadmills: Place you forefoot down not rear foot 
@@ -44,6 +45,10 @@
   - 15 - 20 Mins / Day
 
 ## Techniques
+- Always play opposite muscle when weight training to prevent injure
+  - Chest and Tricep
+  - Back and Bicep
 - When lift weight for Bicep and Tricep, the eldbow point in front of yourself 
 - When lift weight for Leg, your foot tip should point to your face 
-
+- Don't hold the machine handle because muscle will focus on the wrong place
+- Please try to fix wrist to straight forward all the time to avoid wrist hurt
