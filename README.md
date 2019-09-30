@@ -24,7 +24,7 @@
   - Bench Dumbbell Fly 
   - Tricep Dumbbell Kickback 
   - Technogym Tricep Machine 
-- Abdominal Routine before finish workout (15 times, 3 set)
+- Abdominal Routine before finish workout (4 set 12 times)
   - Lower Abs with machine 
   - Abs with hover situp 
   - Bodyweight ball with situp
