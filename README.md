@@ -19,12 +19,19 @@
   
 ## Workout Recipes
 ### Weight Training 
-- Chest Day (4 set 12 times)
+General: 4 set 12 times
+- Leg Day 
+  - Leg Press
+  - Leg Curl
+  - Leg Extension
+  - Squarts
+  - Lunge 
+- Chest Day
   - Brench Press
   - Bench Dumbbell Fly 
   - Tricep Dumbbell Kickback 
   - Technogym Tricep Machine 
-- Abdominal Routine before finish workout (4 set 12 times)
+- *Routine*: Abdominal 
   - Lower Abs with machine 
   - Abs with hover situp 
   - Bodyweight ball with situp
