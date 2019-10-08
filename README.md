@@ -20,6 +20,10 @@
 ## Workout Recipes
 ### Weight Training 
 General: 4 set 12 times
+- Back Day 
+  - Bicep
+  - Technogym Upper Back 
+  - Technogym Pulley
 - Leg Day 
   - Leg Press
   - Leg Curl
