@@ -38,7 +38,7 @@ General: 4 set 12 times
 - *Routine*: Abdominal 
   - Lower Abs with machine 
   - Abs with hover situp 
-  - Bodyweight ball with situp
+  - Ball Pass
   - Crunch
   - Plank (30 sec)
   
