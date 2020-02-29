@@ -66,7 +66,8 @@ General: 4 set 12 times
 - Please try to fix wrist to straight forward all the time to avoid wrist hurt
 
 ## BodyWeight Workout
-- Inner Thin Leg Workout
+- Inner Thigh Leg Workout
   - [Wide Squat](https://www.youtube.com/watch?v=v2ukjHXbXVo)
   - [Side Leg Raises](https://www.youtube.com/watch?v=jgh6sGwtTwk)
   - [Side Leg Extensions](https://www.youtube.com/watch?v=VTRlJVVcC0A)
+  - [Inner Thigh Lift](https://www.facebook.com/PanFitHealthyModel/videos/210569916760349/)
