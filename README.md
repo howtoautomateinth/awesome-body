@@ -64,3 +64,9 @@ General: 4 set 12 times
 - When lift weight for Leg, your foot tip should point to your face 
 - Don't hold the machine handle because muscle will focus on the wrong place
 - Please try to fix wrist to straight forward all the time to avoid wrist hurt
+
+## BodyWeight Workout
+- Inner Thin Leg Workout
+  - [Wide Squat](https://www.youtube.com/watch?v=v2ukjHXbXVo)
+  - [Side Leg Raises](https://www.youtube.com/watch?v=jgh6sGwtTwk)
+  - [Side Leg Extensions](https://www.youtube.com/watch?v=VTRlJVVcC0A)
