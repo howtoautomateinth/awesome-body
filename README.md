@@ -65,10 +65,12 @@ General: 4 set 12 times
 - Don't hold the machine handle because muscle will focus on the wrong place
 - Please try to fix wrist to straight forward all the time to avoid wrist hurt
 
-## BodyWeight Workout
+## Workout based on muscle
 - Inner Thigh Leg Workout
   - [Wide Squat](https://www.youtube.com/watch?v=v2ukjHXbXVo)
   - [Side Leg Raises](https://www.youtube.com/watch?v=jgh6sGwtTwk)
   - [Side Leg Extensions](https://www.youtube.com/watch?v=VTRlJVVcC0A)
   - [Inner Thigh Lift](https://www.facebook.com/PanFitHealthyModel/videos/210569916760349/)
   - [10 MIN INNER THIGH Model Workout](https://www.youtube.com/watch?v=FEet5z9Qblw)
+- Tricep
+  - [Seated Two Arm Overhead Dumbbell Triceps Extensions](https://www.youtube.com/watch?v=JJcN8VHAsl0)
