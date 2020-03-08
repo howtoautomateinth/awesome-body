@@ -61,6 +61,7 @@ General: 4 set 12 times
   - Dirty Dog
   - Glute Kickback
   - Single Leg Hip Extension
+  - Inner Thigh Leg
 - Abs day
   - Crunch
   - Cycle Crunch
