@@ -13,23 +13,30 @@
 * Core Muscle Body
 * Lower Body
 
-## Before workout
-### Streching
+## Weight Training  At Gym
+### Before workout
+#### Streching
 - Technogym Streching Machine 
+
+#### Cardio Training 
+- Treadmills: Place you forefoot down not rear foot 
+  - Please keep your HR in zone 2
+  - Looping Walk 5 minutes - Run 5 minutes - Walk 2 minutes (HiiT Cardio)  
+  - Not Less than 30 minutes
   
-## Workout Recipes
-### Weight Training 
+#### Workout Recipes
 General: 4 set 12 times
 - Back Day 
   - Bicep
   - Technogym Upper Back 
   - Technogym Pulley
-- Leg Day 
+- Legs & Butt day 
   - Leg Press
   - Leg Curl
   - Leg Extension
-  - Squarts
-  - Lunge 
+  - Squat
+  - Sumo Squat
+  - Lunge
 - Chest Day
   - Brench Press
   - Bench Dumbbell Fly 
@@ -42,15 +49,25 @@ General: 4 set 12 times
   - Crunch
   - Plank (30 sec)
   
-### Cardio Training 
-- Treadmills: Place you forefoot down not rear foot 
-  - Please keep your HR in zone 2
-  - Looping Walk 5 minutes - Run 5 minutes - Walk 2 minutes (HiiT Cardio)  
-  - Not Less than 30 minutes
-
-## After workout
-### Streching
+### After workout
+#### Streching
 - 
+
+## Body Weight At Home
+- Legs & Butt day
+  - Squat
+  - Sumo Squat
+  - Lunge
+  - Dirty Dog
+  - Glute Kickback
+  - Single Leg Hip Extension
+- Abs day
+  - Crunch
+  - Cycle Crunch
+  - Flutter Kicks
+  - Dumbbell Leg Lift
+  - Plank (30 sec)
+
 
 ### Sauna & Steam 
 - [Benefits of a Steam Room](https://www.medicalnewstoday.com/articles/320314.php)
