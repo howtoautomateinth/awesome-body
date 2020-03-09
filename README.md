@@ -48,31 +48,6 @@ General: 4 set 12 times
   - Ball Pass
   - Crunch
   - Plank (30 sec)
-  
-### After workout
-#### Streching
-- 
-
-## Body Weight At Home
-- Legs & Butt day
-  - Squat
-  - Sumo Squat
-  - Lunge
-  - Dirty Dog
-  - Glute Kickback
-  - Single Leg Hip Extension
-  - Inner Thigh Leg
-- Abs day
-  - Crunch
-  - Cycle Crunch
-  - Flutter Kicks
-  - Dumbbell Leg Lift
-  - Plank (30 sec)
-
-
-### Sauna & Steam 
-- [Benefits of a Steam Room](https://www.medicalnewstoday.com/articles/320314.php)
-  - 15 - 20 Mins / Day
 
 ## Techniques
 - Always play opposite muscle when weight training to prevent injure
@@ -82,6 +57,29 @@ General: 4 set 12 times
 - When lift weight for Leg, your foot tip should point to your face 
 - Don't hold the machine handle because muscle will focus on the wrong place
 - Please try to fix wrist to straight forward all the time to avoid wrist hurt
+
+### After workout
+#### Streching
+- 
+#### Sauna & Steam 
+- [Benefits of a Steam Room](https://www.medicalnewstoday.com/articles/320314.php)
+  - 15 - 20 Mins / Day
+
+## Body Weight At Home
+- Legs & Butt day
+  - Squat
+  - Sumo Squat
+  - Lunge
+  - Dirty Dog
+  - Glute Kickback
+  - Single Leg Hip Extension
+  - Inner Thigh Leg Workout
+- Abs day
+  - Crunch
+  - Cycle Crunch
+  - Flutter Kicks
+  - Dumbbell Leg Lift
+  - Plank (30 sec)
 
 ## Workout based on muscle
 - Inner Thigh Leg Workout
