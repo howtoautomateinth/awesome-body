@@ -83,12 +83,13 @@ General: 4 set 12 times
 
 ## Workout based on muscle
 - Abs
-  - [Abs Excerise most doing wrong](https://www.youtube.com/watch?v=SGGEcZhgq3A)
+  - [Abs exercise most doing wrong](https://www.youtube.com/watch?v=SGGEcZhgq3A)
 - Inner Thigh Leg Workout
   - [Wide Squat](https://www.youtube.com/watch?v=v2ukjHXbXVo)
   - [Side Leg Raises](https://www.youtube.com/watch?v=jgh6sGwtTwk)
   - [Side Leg Extensions](https://www.youtube.com/watch?v=VTRlJVVcC0A)
   - [Inner Thigh Lift](https://www.facebook.com/PanFitHealthyModel/videos/210569916760349/)
   - [10 MIN INNER THIGH Model Workout](https://www.youtube.com/watch?v=FEet5z9Qblw)
+  - [Favorite 9 exercise](https://www.youtube.com/watch?v=EhSxs4cUOGk)
 - Tricep
   - [Seated Two Arm Overhead Dumbbell Triceps Extensions](https://www.youtube.com/watch?v=JJcN8VHAsl0)
