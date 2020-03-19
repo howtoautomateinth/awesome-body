@@ -69,7 +69,7 @@ General: 4 set 12 times
 - Legs & Butt day
   - Squat
   - Sumo Squat
-  - Lunge
+  - Lunge (dynamic) / Split Squat (static)
   - Dirty Dog
   - Glute Kickback
   - Single Leg Hip Extension
