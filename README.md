@@ -81,7 +81,8 @@ General: 4 set 12 times
   - Dumbbell Leg Lift
   - Plank (30 sec)
 
-## Workout based on muscle
+## Theory & Examples
+- [Breathing](https://pantip.com/topic/32421901)
 - Abs
   - [Abs exercise most doing wrong](https://www.youtube.com/watch?v=SGGEcZhgq3A)
 - Inner Thigh Leg Workout
@@ -93,6 +94,3 @@ General: 4 set 12 times
   - [Favorite 9 exercise](https://www.youtube.com/watch?v=EhSxs4cUOGk)
 - Tricep
   - [Seated Two Arm Overhead Dumbbell Triceps Extensions](https://www.youtube.com/watch?v=JJcN8VHAsl0)
-
-## Theory
-- [Breathing](https://pantip.com/topic/32421901)
