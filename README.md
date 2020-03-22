@@ -83,6 +83,7 @@ General: 4 set 12 times
 
 ## Theory & Examples
 - [Breathing](https://pantip.com/topic/32421901)
+- [Afterburn effect](https://www.holmesplace.com/pl/en/blog/fitness/what-is-the-after-burn-effect-and-when-does-it-occur)
 - Abs
   - [Abs exercise most doing wrong](https://www.youtube.com/watch?v=SGGEcZhgq3A)
 - Inner Thigh Leg Workout
