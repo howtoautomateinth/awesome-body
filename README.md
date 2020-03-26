@@ -78,8 +78,10 @@ General: 4 set 12 times
   - Crunch
   - Cycle Crunch
   - Flutter Kicks
-  - Dumbbell Leg Lift
+  - Leg Lift [1](https://www.youtube.com/watch?v=dHSIerbp-CE)
+  - Dumbbell Leg Lift [1](https://www.youtube.com/watch?v=g1Rzh7ffPsE)
   - Plank (30 sec)
+  - Side Plank [1](https://www.youtube.com/watch?v=K2VljzCC16g)
 
 ## Theory & Examples
 - [Breathing](https://pantip.com/topic/32421901)
