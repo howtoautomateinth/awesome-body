@@ -83,6 +83,9 @@ General: 4 set 12 times
   - Plank (30 sec)
   - Side Plank ([1](https://www.youtube.com/watch?v=K2VljzCC16g))
 
+### Cardio
+- [Indoor Running 30 minutes](https://www.youtube.com/watch?v=RaZZU5oFzqI)
+
 ## Theory & Examples
 - [Breathing](https://pantip.com/topic/32421901)
 - [Resistance Band](https://www.youtube.com/watch?v=gjRnm_wmArY) alternatives cable machines
