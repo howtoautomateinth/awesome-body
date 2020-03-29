@@ -78,13 +78,14 @@ General: 4 set 12 times
   - Crunch
   - Cycle Crunch
   - Flutter Kicks
-  - Leg Lift [1](https://www.youtube.com/watch?v=dHSIerbp-CE)
-  - Dumbbell Leg Lift [1](https://www.youtube.com/watch?v=g1Rzh7ffPsE)
+  - Leg Lift ([1](https://www.youtube.com/watch?v=dHSIerbp-CE))
+  - Dumbbell Leg Lift ([1](https://www.youtube.com/watch?v=g1Rzh7ffPsE))
   - Plank (30 sec)
-  - Side Plank [1](https://www.youtube.com/watch?v=K2VljzCC16g)
+  - Side Plank ([1](https://www.youtube.com/watch?v=K2VljzCC16g))
 
 ## Theory & Examples
 - [Breathing](https://pantip.com/topic/32421901)
+- [Resistance Band](https://www.youtube.com/watch?v=gjRnm_wmArY) alternatives cable machines
 - [Afterburn effect](https://www.holmesplace.com/pl/en/blog/fitness/what-is-the-after-burn-effect-and-when-does-it-occur)
 - Abs
   - [Abs exercise most doing wrong](https://www.youtube.com/watch?v=SGGEcZhgq3A)
