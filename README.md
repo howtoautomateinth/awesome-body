@@ -99,5 +99,6 @@ General: 4 set 12 times
   - [Inner Thigh Lift](https://www.facebook.com/PanFitHealthyModel/videos/210569916760349/)
   - [10 MIN INNER THIGH Model Workout](https://www.youtube.com/watch?v=FEet5z9Qblw)
   - [Favorite 9 exercise](https://www.youtube.com/watch?v=EhSxs4cUOGk)
+  - [10 Min Thing Workout](https://www.youtube.com/watch?v=p-byEw_tKa8&fbclid=IwAR19RqbpPF0LjO1C5aENN_JgCa4GhHPuZHMCzN7DcMIJwUn37doUh_tIbQU)
 - Tricep
   - [Seated Two Arm Overhead Dumbbell Triceps Extensions](https://www.youtube.com/watch?v=JJcN8VHAsl0)
